@@ -11,7 +11,7 @@
 
 	<Counter />
 </section>
- <h1>Estimación Estadística</h1>
+ <h1>Estimación Puntual</h1>
    <label for="datos">Introduce los datos (separados por comas):</label><br>
     <input type="text" id="datos"><br><br>
 
