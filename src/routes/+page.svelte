@@ -8,13 +8,6 @@
 </svelte:head>
 
 <section>
-	<h1>
-		<span class="welcome">
-			
-		</span>
-
-		to your new<br />SvelteKit app
-	</h1>
 
 	<h2>
 		try editing <strong>src/routes/index.svelte</strong>
